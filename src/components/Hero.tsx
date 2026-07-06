@@ -114,19 +114,19 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* 03: Direct Inquiries */}
+          {/* 03: Direct Call */}
           <div className="flex items-center gap-2.5">
             <div className="text-xs font-bold text-[#FFED29] shrink-0">
               03 //
             </div>
             <div>
               <h4 className="text-xs sm:text-sm font-bold text-white tracking-tight leading-none uppercase italic">
-                DIRECT INQUIRIES
+                DIRECT CALL
               </h4>
               <div className="text-[11px] text-zinc-400 mt-0.5 flex items-center gap-1.5">
-                <a href="tel:+919962870777" className="hover:text-[#FFED29] hover:underline transition-colors">099628 70777</a>
+                <a href="tel:+919962870777" className="hover:text-[#FFED29] hover:underline transition-colors">Sec 4 & Palam</a>
                 <span>•</span>
-                <a href="tel:+919555829555" className="hover:text-[#FFED29] hover:underline transition-colors">095558 29555</a>
+                <a href="tel:+919555829555" className="hover:text-[#FFED29] hover:underline transition-colors">Sec 52 Arena</a>
               </div>
             </div>
           </div>

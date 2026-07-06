@@ -85,7 +85,7 @@ export default function BranchesSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: idx * 0.15 }}
-              className="bg-gradient-to-b from-white/[0.05] to-white/[0.02] border border-white/10 hover:border-[#FFED29]/60 rounded-3xl p-8 flex flex-col justify-between group transition-all duration-300 relative overflow-hidden shadow-[0_15px_35px_rgba(0,0,0,0.8)]"
+              className="bg-gradient-to-b from-white/[0.05] to-white/[0.02] border border-white/10 hover:border-[#FFED29]/60 rounded-3xl p-6 sm:p-8 flex flex-col justify-between group transition-all duration-300 relative overflow-hidden shadow-[0_15px_35px_rgba(0,0,0,0.8)]"
             >
               {/* Top Accent Line */}
               <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-transparent via-[#FFED29]/0 to-transparent group-hover:via-[#FFED29] transition-all duration-500" />
